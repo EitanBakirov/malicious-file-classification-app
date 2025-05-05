@@ -104,17 +104,17 @@ To reproduce the project and run the application:
     ```
 
 3. **Install dependencies**:
-  ```bash
-  pip install -r requirements.txt
-  ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 
 4. **Run the Streamlit application:**:
-  ```bash
-  streamlit run app.py
-  ```
+    ```bash
+    streamlit run app.py
+    ```
 
-  The application will open in your default web browser.
+    The application will open in your default web browser.
   
 ## Authors
 
