@@ -8,12 +8,20 @@ This project consists of two main components:
 
 The goal is to classify files as either malicious or benign based on static analysis features. The project combines rigorous data science methodology with a user-friendly interface for practical application.
 
-For an in-depth explanation of our process, see ["report_english.pdf"/"report_hebrew.pdf"](https://github.com/EitanBakirov/malicious-file-classification/blob/main/report_english.pdf) or explore the complete [notebook.ipynb](https://github.com/EitanBakirov/malicious-file-classification/blob/main/notebook.ipynb).
+For an in-depth explanation of our process, see report_english.pdf"/"report_hebrew.pdf or explore the complete [notebook.ipynb](https://github.com/EitanBakirov/malicious-file-classification-app/blob/main/notebook.ipynb).
+
+## App Screenshots
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## Table of Contents
 
 - [Malware Detection: ML Classification \& Interactive Application](#malware-detection-ml-classification--interactive-application)
   - [Overview](#overview)
+  - [App Screenshots](#app-screenshots)
   - [Table of Contents](#table-of-contents)
   - [Project Components](#project-components)
     - [1. Data Science Pipeline](#1-data-science-pipeline)
