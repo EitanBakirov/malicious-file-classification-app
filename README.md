@@ -94,8 +94,8 @@ To reproduce the project and run the application:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/EitanBakirov/malicious-file-classification.git
-   cd malicious-file-classification
+   git clone https://github.com/EitanBakirov/malicious-file-classification-app.git
+   cd malicious-file-classification-app
    ```
 
 2. **Create a virtual environment**:
