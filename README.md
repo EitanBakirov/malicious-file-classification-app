@@ -54,7 +54,6 @@ The complete machine learning pipeline includes:
 Our Streamlit application provides:
 - User-friendly interface for file upload and analysis
 - Real-time classification of files as malicious or benign
-- Confidence scores and visualization of results
 - Model information and performance metrics
 - Adjustable detection threshold for customized sensitivity
 
@@ -92,17 +91,17 @@ To reproduce the project and run the application:
    ```
 
 2. **Create a virtual environment**:
-  ```bash
-  # Create a new virtual environment
-  python -m venv .venv
+    ```bash
+    # Create a new virtual environment
+    python -m venv .venv
 
-  # Activate the virtual environment
-  # On Windows:
-  .venv\Scripts\activate
+    # Activate the virtual environment
+    # On Windows:
+    .venv\Scripts\activate
 
-  # On macOS/Linux:
-  source .venv/bin/activate
-  ```
+    # On macOS/Linux:
+    source .venv/bin/activate
+    ```
 
 3. **Install dependencies**:
   ```bash
@@ -114,7 +113,7 @@ To reproduce the project and run the application:
   ```bash
   streamlit run app.py
   ```
-  
+
   The application will open in your default web browser.
   
 ## Authors
